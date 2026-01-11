@@ -1,7 +1,24 @@
-### 🔹 Nom du projet professionnel
+### 🔹 Déploiement du GSA entra Internet component
 
 #### 🎯 Objectif
-Contexte métier et objectifs du projet.
+Dans ce projet le client souhaite controller l'access aux sites Internet sur les postes de travail. 
+Nous avons utilisé le composant Defender qui ne nous a pas donné satisfaction et nous avons enfin decidé de mettre en place la solution Entra Internet Access.
+
+# Stack  technologique
+-Client GSA
+-Déploiement de strategies de filtre des sites Internet
+-Déploiement des profils de securite
+-Mise en oeuvre des CA
+
+#### 👤 Implication
+- Rôle dans le projet
+- Responsabilités principales
+- Collaboration avec équipes
+
+# Résultats
+Le client peut controller l'access Internet en utilisant une approche Zero trust
+Amelioration de la posture de securité des Postes de travail en scenarion hybride et de son tenant en general
+
 
 #### 🧰 Stack technologique
 - Langage(s) :
@@ -19,12 +36,7 @@ Contexte métier et objectifs du projet.
 - Microsoft 365 / Entra
 - Azure
 - Autres outils professionnels
-
-#### 📊 Résultats
-- Résultats concrets
-- Améliorations mesurables
-- Impact business
-
-#### 🔗 Ressources
+ 
+#### 🔗 Lecons apprises
 - [Documentation officielle](https://example.com)
 - [Étude de cas](https://example.com)
