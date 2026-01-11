@@ -1,29 +1,27 @@
-### 🔹 Nom du projet professionnel
+### 🔹 Sécurisation des peripheriques mobiles
 
 #### 🎯 Objectif
-Contexte métier et objectifs du projet.
+Mettre en place des strategies de sécurisation des peripheriques mobiles.L'entreprise a une flote de preipheriques appartenant a l'entreprise qu,elle met a la disposition des employés. Mais il faut aussi prévoir de securiser les péripheriques en mode BYOD.
 
 #### 🧰 Stack technologique
-- Langage(s) :
-- Plateforme(s) :
+- Plateforme(s) : M365, Intune
 - Cloud / On-prem :
-- API / Connecteurs :
+
 
 #### 👤 Implication
-- Rôle dans le projet
-- Responsabilités principales
-- Collaboration avec équipes
+- Architecture de la solution
+- Responsabilités principales: Cordination des équipes
+- Documentation et transfert de competences
 
 #### 🛠️ Tools
-- Activepieces
 - Microsoft 365 / Entra
 - Azure
-- Autres outils professionnels
+  
 
 #### 📊 Résultats
-- Résultats concrets
+- Mettre en place une strategie de onbording des péripheriques mobiles
 - Améliorations mesurables
-- Impact business
+- Impact business : Sécurisation et elargissement du modele Zero trust
 
 #### 🔗 Ressources
 - [Documentation officielle](https://example.com)
