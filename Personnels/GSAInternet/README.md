@@ -38,5 +38,5 @@ Amelioration de la posture de securité des Postes de travail en scenarion hybri
 - Autres outils professionnels
  
 #### 🔗 Lecons apprises
-- [Erreurs GSA]([https://example.com](https://agderinthe.cloud/2025/11/03/having-trouble-with-the-gsa-client-health-check-here-is-how-to-fix-the-most-common-errors/))
-- [Déploiement de GSA client]([https://example.com](https://medium.com/@eng.muhammedabdelnasser/4-alarming-truths-we-uncovered-deploying-microsofts-global-secure-access-client-021593978ed7))
+- [Erreurs GSA]([https://example.com](https://agderinthe.cloud/2025/11/03/having-trouble-with-the-gsa-client-health-check-here-is-how-to-fix-the-most-common-errors/)
+- [Déploiement de GSA client]([https://example.com](https://medium.com/@eng.muhammedabdelnasser/4-alarming-truths-we-uncovered-deploying-microsofts-global-secure-access-client-021593978ed7)
